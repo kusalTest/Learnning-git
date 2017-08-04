@@ -1,0 +1,1 @@
+if you want to remove adding staging from git repo "add rm --cached <file>"
